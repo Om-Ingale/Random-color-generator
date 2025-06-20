@@ -1,0 +1,24 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.div{
+    height: 500px;
+    width: 94%;
+    border: 3px solid black;
+    border-radius: 16px;
+}
+
+button{
+    width: 300px;
+    height: 32px;
+    margin-top: 32px;
+    border: 3px solid black;
+    border-radius: 16px;
+    background-color: #232323;
+    color: aliceblue;
+}
